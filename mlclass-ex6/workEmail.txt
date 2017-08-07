@@ -1,0 +1,11 @@
+With the development PC upgrade to 64-bit, I hope everyone is doing 64-bit builds locally for development PC testing!
+
+When Fred initially started this, he found issues on the UMG/GUI interface & has a concern that other interfaces are affected by this migration to 64-bit.
+
+The 64-bit builds on Hudson running unit tests provide a degree of confidence but please flag (or/and fix) any areas where functionality is affected and not behaving like 32-bit.
+
+Note: obviously the DLP is outside the scope of this email as that has never been tested on development PCs anyhow.
+
+Thank you
+Andy
+
